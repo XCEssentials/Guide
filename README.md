@@ -5,75 +5,61 @@ This is an open-source guide about how to write iOS app from beginning to the en
 See below list of essential libs that will help you developer get up and running in with development of any iOS app.
 
 **[ProjectGenerator](https://XCEssentials.github.io/ProjectGenerator)**
-
 - *Description:* Describe Xcode project declaratively in pure Swift.
-- *Commitment:* author.
+- *Author:* [@maximkhatskevich](https://github.com/maximkhatskevich).
 
-**[XCEUniFlow](https://XCEssentials.github.io/UniFlow)**
-
+**[UniFlow](https://XCEssentials.github.io/UniFlow)**
 - *Description:* App architecture done right, inspired by Flux (from Facebook).
-- *Commitment:* author.
+- *Author:* [@maximkhatskevich](https://github.com/maximkhatskevich).
 
-**[XCERequirement](https://XCEssentials.github.io/Requirement)**
-
+**[Requirement](https://XCEssentials.github.io/Requirement)**
 - *Description:* Describe requirements in a declarative, easy-readable format.
+- *Author:* [@maximkhatskevich](https://github.com/maximkhatskevich).
 
-
-- *Commitment:* author.
-
-**[MKHState](https://github.com/maximkhatskevich/MKHState)**
-
-- *Description:* Turn any object into a discrete system and describe its states in a declarative style.
-- *Commitment:* author.
-
-**[MKHOperationFlow](https://github.com/maximkhatskevich/MKHOperationFlow)**
-
-- *Description:* Lightweight async serial operation flow controller.
-
-
-- *Commitment:* author.
+**[Testing](https://XCEssentials.github.io/Testing)**
+- *Description:* A more expressive and readable way to describe expectations in Xcode unit tests.
+- *Author:* [@maximkhatskevich](https://github.com/maximkhatskevich).
 
 **[MKHValidatableValue](https://github.com/maximkhatskevich/MKHValidatableValue)**
-
 - *Description:* Generic value wrapper with built-in validation.
-- *Commitment:* author.
+- *Author:* [@maximkhatskevich](https://github.com/maximkhatskevich).
+
+**[MKHState](https://github.com/maximkhatskevich/MKHState)**
+- *Description:* Turn any object into a discrete system and describe its states in a declarative style.
+- *Author:* [@maximkhatskevich](https://github.com/maximkhatskevich).
+
+**[MKHOperationFlow](https://github.com/maximkhatskevich/MKHOperationFlow)**
+- *Description:* Lightweight async serial operation flow controller.
+- *Author:* [@maximkhatskevich](https://github.com/maximkhatskevich).
 
 **[MKHAPIClient](https://github.com/maximkhatskevich/MKHAPIClient)**
-
 - *Description:* HTTP-based API client for Cocoa and Cocoa Touch.
-- *Commitment:* author.
+- *Author:* [@maximkhatskevich](https://github.com/maximkhatskevich).
 
 **[MKHSyncSession](https://github.com/maximkhatskevich/MKHSyncSession)**
-
 - *Description:* Tiny extension for NSURLSession that enables synchronous task execution.
-- *Commitment:* author.
+- *Author:* [@maximkhatskevich](https://github.com/maximkhatskevich).
 
 **[MKHViewEvents](https://github.com/maximkhatskevich/MKHViewEvents)**
-
 - *Description:* Set of helpers for adding UIControl-based event handlers and gesture recognizer handlers on iOS.
-- *Commitment:* author.
+- *Author:* [@maximkhatskevich](https://github.com/maximkhatskevich).
 
 **[MKHOptionalAssign](https://github.com/maximkhatskevich/MKHOptionalAssign)**
-
 - *Description:* Custom assign operator that safely unwraps and assigns non-nil optionals only.
-- *Commitment:* author.
+- *Author:* [@maximkhatskevich](https://github.com/maximkhatskevich).
 
 **[MKHTypedKey](https://github.com/maximkhatskevich/MKHTypedKey)**
-
 - *Description:* Generic key for explicit type safe access to values from any key-value storage.
-- *Commitment:* author.
+- *Author:* [@maximkhatskevich](https://github.com/maximkhatskevich).
 
 **[MKHEntityManager](https://github.com/maximkhatskevich/MKHEntityManager)**
-
 - *Description:* Lightweight model objects manager that helps maintain consistency.
-- *Commitment:* author.
+- *Author:* [@maximkhatskevich](https://github.com/maximkhatskevich).
 
 **[MKHStoryboardHelpers](https://github.com/maximkhatskevich/MKHStoryboardHelpers)**
-
 - *Description:* Helpers for type-safe storyboard usage in Xcode projects.
-- *Commitment:* author.
+- *Author:* [@maximkhatskevich](https://github.com/maximkhatskevich).
 
 **[MKHDesignableAnimation](https://github.com/maximkhatskevich/MKHDesignableAnimation)**
-
 - *Description:* Set of helpers that let you automate view animations through designing key view states using Interface Builder.
-- *Commitment:* author.
+- *Author:* [@maximkhatskevich](https://github.com/maximkhatskevich).
