@@ -20,11 +20,11 @@ See below list of essential libs that will help you developer get up and running
 - *Description:* A more expressive and readable way to describe expectations in Xcode unit tests.
 - *Author:* [@maximkhatskevich](https://github.com/maximkhatskevich).
 
-**[ValidatableValue](https://github.com/XCEssentials/ValidatableValue)**
+**[ValidatableValue](https://xcessentials.github.io/ValidatableValue/)**
 - *Description:* Generic value wrapper with built-in validation.
 - *Author:* [@maximkhatskevich](https://github.com/maximkhatskevich).
 
-**[MKHState](https://github.com/maximkhatskevich/MKHState)**
+**[State](https://xcessentials.github.io/State)**
 - *Description:* Turn any object into a discrete system and describe its states in a declarative style.
 - *Author:* [@maximkhatskevich](https://github.com/maximkhatskevich).
 
