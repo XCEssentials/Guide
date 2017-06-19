@@ -26,7 +26,7 @@ See below list of essential libs that will help you get up and running with deve
 - **[StaticState](https://xcessentials.github.io/StaticState)**
   Turn any object into a discrete system where each state is a static data container.
 
-- **[State](https://xcessentials.github.io/State)**
+- **[FunctionalState](https://xcessentials.github.io/FunctionalState)**
   Turn any object into a discrete system and describe its states in a declarative style.
 
 - **[MKHOperationFlow](https://github.com/maximkhatskevich/MKHOperationFlow)**
